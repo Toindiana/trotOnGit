@@ -25,3 +25,18 @@ git add somefile.js
 git status
 # проверка статуса репозитория
 ```
+
+```bash
+git status
+# проверка статуса репозитория
+```
+
+```bash
+git commit -m "Your short summary about the commit"
+# создание коммита к сообщением
+```
+
+```bash
+git log
+# история коммитов
+```
