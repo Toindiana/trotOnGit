@@ -9,6 +9,7 @@
 ```bash
 git config --global user.name "user.email"
  # создание имени пользователя и почты
+ ```
 
 ```bash
 git init
@@ -18,7 +19,9 @@ git init
 ```bash
 git add somefile.js
 # добавление отдельных файлов или всех файлов в область подготовленных файлов
+```
 
 ```bash
 git status
 # проверка статуса репозитория
+```
