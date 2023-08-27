@@ -13,6 +13,7 @@ git config --global user.name "user.email"
 ```bash
 git init
 # инициализация репозитория
+```
 
 ```bash
 git add somefile.js
