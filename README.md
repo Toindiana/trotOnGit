@@ -31,7 +31,7 @@ git commit -m "Your short summary about the commit"
 # создание коммита с сообщением
 ```
 
+##### история коммитов
 ```bash
 git log
-# история коммитов
 ```
